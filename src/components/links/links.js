@@ -6,5 +6,9 @@ export const links = [
     {
         title: "Profile",
         to: "/profile"
+    },
+    {
+        title: "Contest",
+        to: "/contest"
     }
 ]
